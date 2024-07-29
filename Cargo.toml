@@ -1,0 +1,9 @@
+[package]
+name = "png-secret"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0"
+crc = "3.2.1"
+thiserror = "1.0"
